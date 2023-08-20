@@ -1,0 +1,30 @@
+{
+  "name": "toptown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "mode": "development",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --output-path ./public",
+    "start": "webpack-dev-server --output-path ./public --hot"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "dependencies": {
+    "@deck.gl/aggregation-layers": "^7.3.3",
+    "@deck.gl/core": "^7.3.3",
+    "@deck.gl/google-maps": "^7.3.3",
+    "@deck.gl/layers": "^7.3.3",
+    "@deck.gl/mapbox": "^7.3.3",
+    "d3-scale": "^4.0.2",
+    "h3-js": "^4.1.0",
+    "loaders.gl": "^0.3.5",
+    "mapbox-gl": "^2.15.0"
+  }
+}
