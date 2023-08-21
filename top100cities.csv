@@ -1,0 +1,101 @@
+rank_2020,city,state,population_2020,land_area_sqmi,pop_density_2020_sqmi,latitude,longitude
+1,New York,New York,8804190,300.5  ,29298 ,40°40′N,73°56′W
+2,Los Angeles,California,3898747,469.5  ,8304 ,34°01′N,118°25′W
+3,Chicago,Illinois,2746388,227.7  ,12061 ,41°50′N,87°41′W
+4,Houston,Texas,2304580,640.4  ,3599 ,29°47′N,95°23′W
+5,Phoenix,Arizona,1608139,518.0  ,3105 ,33°34′N,112°05′W
+6,Philadelphia,Pennsylvania,1603797,134.4  ,11933 ,40°00′N,75°08′W
+7,San Antonio,Texas,1434625,498.8  ,2876 ,29°28′N,98°31′W
+8,San Diego,California,1386932,325.9  ,4256 ,32°49′N,117°08′W
+9,Dallas,Texas,1304379,339.6  ,3841 ,32°47′N,96°46′W
+10,San Jose,California,1013240,178.3  ,5683 ,37°17′N,121°49′W
+11,Austin,Texas,961855,319.9  ,3007 ,30°18′N,97°45′W
+12,Jacksonville,Florida,949611,747.3  ,1271 ,30°20′N,81°40′W
+13,Fort Worth,Texas,918915,342.9  ,2646 ,32°47′N,97°20′W
+14,Columbus,Ohio,905748,220.0  ,4117 ,39°59′N,82°59′W
+15,Indianapolis,Indiana,887642,361.6  ,2455 ,39°46′N,86°08′W
+16,Charlotte,North Carolina,874579,308.3  ,2837 ,35°12′N,80°50′W
+17,San Francisco,California,873965,46.9  ,18635 ,37°43′N,123°02′W
+18,Seattle,Washington,737015,83.8  ,8795 ,47°37′N,122°21′W
+19,Denver,Colorado,715522,153.1  ,4674 ,39°46′N,104°53′W
+20,Washington,District of Columbia,689545,61.1  ,11286 ,38°54′N,77°01′W
+21,Nashville,Tennessee,689447,475.8  ,1449 ,36°10′N,86°47′W
+22,Oklahoma City,Oklahoma,681054,606.2  ,1123 ,35°28′N,97°31′W
+23,El Paso,Texas,678815,258.4  ,2627 ,31°50′N,106°25′W
+24,Boston,Massachusetts,675647,48.3  ,13989 ,42°20′N,71°01′W
+25,Portland,Oregon,652503,133.5  ,4888 ,45°32′N,122°39′W
+26,Las Vegas,Nevada,641903,141.8  ,4527 ,36°13′N,115°16′W
+27,Detroit,Michigan,639111,138.7  ,4608 ,42°23′N,83°06′W
+28,Memphis,Tennessee,633104,297.0  ,2132 ,35°06′N,89°58′W
+29,Louisville,Kentucky,633045,263.5  ,2402 ,38°10′N,85°38′W
+30,Baltimore,Maryland,585708,80.9  ,7240 ,39°18′N,76°37′W
+31,Milwaukee,Wisconsin,577222,96.2  ,6000 ,43°04′N,87°58′W
+32,Albuquerque,New Mexico,564559,187.3  ,3014 ,35°06′N,106°38′W
+33,Tucson,Arizona,542629,241.0  ,2252 ,32°09′N,110°52′W
+34,Fresno,California,542107,115.2  ,4706 ,36°47′N,119°47′W
+35,Sacramento,California,524943,98.6  ,5324 ,38°34′N,121°28′W
+36,Kansas City,Missouri,508090,314.7  ,1615 ,39°07′N,94°33′W
+37,Mesa,Arizona,504258,138.7  ,3636 ,33°24′N,111°43′W
+38,Atlanta,Georgia,498715,135.3  ,3686 ,33°46′N,84°25′W
+39,Omaha,Nebraska,486051,133.2  ,3433 ,41°16′N,96°02′W
+40,Colorado Springs,Colorado,478961,195.4  ,2451 ,38°52′N,104°46′W
+41,Raleigh,North Carolina,467665,145.1  ,3179 ,35°50′N,78°38′W
+42,Long Beach,California,466742,50.7  ,9206 ,33°48′N,118°09′W
+43,Virginia Beach,Virginia,459470,244.7  ,1878 ,36°47′N,76°01′W
+44,Miami,Florida,442241,36.0  ,12284 ,25°46′N,80°12′W
+45,Oakland,California,440646,55.9  ,7883 ,37°46′N,122°13′W
+46,Minneapolis,Minnesota,429954,54.0  ,7962 ,44°58′N,93°16′W
+47,Tulsa,Oklahoma,413066,197.5  ,2091 ,36°07′N,95°54′W
+48,Bakersfield,California,403455,149.8  ,2693 ,35°19′N,119°01′W
+49,Wichita,Kansas,397532,162.0  ,2454 ,37°41′N,97°20′W
+50,Arlington,Texas,394266,95.9  ,4111 ,32°42′N,97°07′W
+51,Aurora,Colorado,386261,160.1  ,2413 ,39°41′N,104°41′W
+52,Tampa,Florida,384959,114.0  ,3377 ,27°58′N,82°28′W
+53,New Orleans,Louisiana,383997,169.5  ,2265 ,30°03′N,89°56′W
+54,Cleveland,Ohio,372624,77.7  ,4796 ,41°28′N,81°40′W
+55,Honolulu,Hawaii,350964,60.5  ,5801 ,21°19′N,157°50′W
+56,Anaheim,California,346824,50.3  ,6895 ,33°51′N,117°46′W
+57,Lexington,Kentucky,322570,283.6  ,1137 ,38°02′N,84°27′W
+58,Stockton,California,320804,62.2  ,5158 ,37°58′N,121°19′W
+59,Corpus Christi,Texas,317863,162.2  ,1960 ,27°45′N,97°10′W
+60,Henderson,Nevada,317610,106.2  ,2991 ,36°00′N,115°02′W
+61,Riverside,California,314998,81.2  ,3879 ,33°56′N,117°23′W
+62,Newark,New Jersey,311549,24.1  ,12927 ,40°43′N,74°10′W
+63,Saint Paul,Minnesota,311527,52.0  ,5991 ,44°56′N,93°06′W
+64,Santa Ana,California,310227,27.3  ,11364 ,33°44′N,117°53′W
+65,Cincinnati,Ohio,309317,77.8  ,3976 ,39°08′N,84°30′W
+66,Irvine,California,307670,65.6  ,4690 ,33°40′N,117°46′W
+67,Orlando,Florida,307573,110.6  ,2781 ,28°25′N,81°16′W
+68,Pittsburgh,Pennsylvania,302971,55.4  ,5469 ,40°26′N,79°58′W
+69,St. Louis,Missouri,301578,61.7  ,4888 ,38°38′N,90°14′W
+70,Greensboro,North Carolina,299035,129.6  ,2307 ,36°05′N,79°49′W
+71,Jersey City,New Jersey,292449,14.7  ,19894 ,40°43′N,74°04′W
+72,Anchorage,Alaska,291247,1706.8  ,171 ,61°10′N,149°17′W
+73,Lincoln,Nebraska,291082,97.7  ,2979 ,40°49′N,96°41′W
+74,Plano,Texas,285494,71.7  ,3982 ,33°03′N,96°44′W
+75,Durham,North Carolina,283506,112.8  ,2513 ,35°59′N,78°54′W
+76,Buffalo,New York,278349,40.4  ,6890 ,42°53′N,78°51′W
+77,Chandler,Arizona,275987,65.3  ,4226 ,33°17′N,111°51′W
+78,Chula Vista,California,275487,49.6  ,5554 ,32°37′N,117°01′W
+79,Toledo,Ohio,270871,80.5  ,3365 ,41°40′N,83°35′W
+80,Madison,Wisconsin,269840,79.6  ,3390 ,43°05′N,89°25′W
+81,Gilbert,Arizona,267918,68.6  ,3906 ,33°19′N,111°44′W
+82,Reno,Nevada,264165,108.8  ,2428 ,39°32′N,119°50′W
+83,Fort Wayne,Indiana,263886,110.7  ,2384 ,41°05′N,85°08′W
+84,North Las Vegas,Nevada,262527,101.3  ,2592 ,36°17′N,115°05′W
+85,St. Petersburg,Florida,258308,61.8  ,4180 ,27°46′N,82°38′W
+86,Lubbock,Texas,257141,134.6  ,1910 ,33°34′N,101°53′W
+87,Irving,Texas,256684,67.0  ,3831 ,32°51′N,96°58′W
+88,Laredo,Texas,255205,106.5  ,2396 ,27°34′N,99°29′W
+89,Winston–Salem,North Carolina,249545,132.7  ,1881 ,36°06′N,80°16′W
+90,Chesapeake,Virginia,249422,338.5  ,737 ,36°40′N,76°18′W
+91,Glendale,Arizona,248325,61.6  ,4031 ,33°32′N,112°11′W
+92,Garland,Texas,246018,57.1  ,4309 ,32°54′N,96°38′W
+93,Scottsdale,Arizona,241361,184.0  ,1312 ,33°41′N,111°52′W
+94,Norfolk,Virginia,238005,53.3  ,4465 ,36°55′N,76°14′W
+95,Boise,Idaho,235684,84.0  ,2806 ,43°36′N,116°14′W
+96,Fremont,California,230504,78.3  ,2944 ,37°29′N,121°56′W
+97,Spokane,Washington,228989,68.8  ,3328 ,47°40′N,117°26′W
+98,Santa Clarita,California,228673,70.8  ,3230 ,34°24′N,118°30′W
+99,Baton Rouge,Louisiana,227470,86.3  ,2636 ,30°26′N,91°08′W
+100,Richmond,Virginia,226610,59.9  ,3783 ,37°32′N,77°28′W
